@@ -34,7 +34,7 @@ nav{
 }
 
 .logo{
-    width: 140px;
+    width: 120px;
 }
 
 nav ul li{
@@ -44,7 +44,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: #fff;
+    color: #3EE3EE;
     text-decoration: none;
     font size: 18px;
     position: relative;    
@@ -66,8 +66,8 @@ nav ul li a:hover::after{
 }
 
 .header-text{
-    margin-top:200px;
-    font-size: 30px;
+    margin-top:180px;
+    font-size: 40px;
 }
 
 .header-text h1{
